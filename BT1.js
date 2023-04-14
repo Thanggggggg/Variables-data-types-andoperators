@@ -6,5 +6,5 @@ let tongdiem = diemLy + diemhoa + diemsinh;
 
 
 document.write("điểm trung bình: "+ diemtrungbinh);
-document.write<br>
+
 document.write("điểm tổng: "+ tongdiem);
